@@ -43,6 +43,8 @@
 #include "precomp.hpp"
 #include "simpleflow.hpp"
 
+#include "permutohedral.h"
+
 //
 // 2D dense optical flow algorithm from the following paper:
 // Michael Tao, Jiamin Bai, Pushmeet Kohli, and Sylvain Paris.
